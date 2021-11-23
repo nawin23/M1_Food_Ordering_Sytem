@@ -34,8 +34,9 @@ In today’s age of fast food and take-out, many restaurants have chosen to focu
 * To place food orders in restaurants
 # When
 * During food order
-# Where
-* Can be implemented at every restaurants
+# Why
+* To quickly and easily order food an can browse to place orders with just a few clicks
+
 # How
 * Can be implemented through C program
 
