@@ -1,5 +1,6 @@
 # Food Ordering System
 
+![giphy1](https://user-images.githubusercontent.com/46160797/143401783-335e8478-5f9d-42e8-a0e8-01994be1259e.jpg)
 
 
 # Folder structure
